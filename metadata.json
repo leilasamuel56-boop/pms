@@ -1,0 +1,6 @@
+{
+  "name": "PMS Chez MOLO",
+  "description": "Location de véhicules premium, lavage expert et services automobiles haut de gamme à Rivera Bonoumin, Abidjan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
